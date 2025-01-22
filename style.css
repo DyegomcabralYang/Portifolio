@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+}
+.Projeto1,.Projeto2{
+    padding: 10px;
+}
